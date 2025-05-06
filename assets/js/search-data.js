@@ -497,25 +497,11 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-bluesky',
-        title: 'Bluesky',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://bsky.app/profile/ishir.bsky.social", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
           window.open("mailto:%69%73%68%69%72@%6D%69%74.%65%64%75", "_blank");
-        },
-      },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/IshirDutta", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -532,25 +518,11 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0002-0475-5115", "_blank");
         },
       },{
-        id: 'social-researchgate',
-        title: 'ResearchGate',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Ishir-Dutta/", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=oQbdRi0AAAAJ", "_blank");
-        },
-      },{
-        id: 'social-zotero',
-        title: 'Zotero',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.zotero.org/ishir", "_blank");
         },
       },{
       id: 'light-theme',
