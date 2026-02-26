@@ -1,0 +1,126 @@
+cv:
+  name: Ishir Dutta
+  email: ishir@alum.mit.edu
+  location: Cambridge, MA
+
+  social_networks:
+    - network: LinkedIn
+      username: ishir-dutta
+
+  sections:
+    Education:
+      - institution: Massachusetts Institute of Technology
+        location: Cambridge, MA
+        url: "https://dspace.mit.edu/handle/1721.1/159889"
+        area: Atmospheric Chemistry
+        study_type: Doctor of Philosophy (Ph.D.)
+        end_date: 2025
+        highlights:
+          - "Thesis: The Changing Role of Reactive Nitrogen in the Troposphere"
+
+      - institution: Colgate University
+        location: Hamilton, NY
+        area: Physics (honors), Mathematics
+        study_type: Bachelor of Arts (A.B.)
+        end_date: 2017
+
+    Experience:
+      - company: Massachusetts Institute of Technology
+        position: Graduate Research Assistant
+        location: Cambridge, MA
+        start_date: 2019
+        end_date: 2025
+        highlights:
+          - "Heald Group: Atmospheric Chemistry & Composition Modeling"
+          - "Cronin Group: Climate Physics & Chemistry"
+
+      - company: Big Switch Networks
+        position: Founder's Office Intern
+        location: Santa Clara, CA
+        start_date: 2017
+        end_date: 2019
+        highlights:
+          - "Mentor: R. Kyle Forster"
+
+      - company: Colgate University
+        position: Undergraduate Research Assistant
+        location: Hamilton, NY
+        start_date: 2014
+        end_date: 2017
+        highlights:
+          - "Harpp Lab: Volcanology & Analytical Geochemistry (2017)"
+          - "Tseng Lab: Microplastics & Contaminants of Emerging Concern (2016-2017)"
+          - "Galvez Lab: Optics & Quantum Mechanics (2015-2016)"
+
+    teaching_experience:
+      - company: Colgate University
+        position: Science Outreach Coordinator
+        location: Hamilton, NY
+        start_date: 2013
+        end_date: 2017
+        summary: "Division of Natural Sciences and Mathematics"
+
+      - company: Colgate University
+        position: Teaching Assistant / Peer Tutor
+        location: Hamilton, NY
+        highlights:
+          - "PHYS 232 Introduction to Mechanics: Teaching Assistant (Spring 2015-2017)"
+          - "GEOG 328 Sustainability and Natural Resources: Peer Tutor (Spring 2017)"
+          - "MATH 250 Number Theory and Mathematical Reasoning: Teaching Assistant (Spring 2016)"
+          - "PHYS 131 Atoms and Waves: Teaching Assistant (Fall 2014-2016)"
+          - "MATH 214 Linear Algebra: Teaching Assistant (Fall 2015)"
+
+      - company: Colgate University (Liberal Arts Core Curriculum)
+        position: edX Online Course Developer
+        highlights:
+          - "FSEM 144 Emerging Global Challenges (Fall 2015)"
+          - "CORE 138S Advent of the Atomic Bomb (Spring 2015)"
+
+    Volunteer:
+      - company: MIT EAPS
+        position: Mentor
+        start_date: 2020
+        end_date: 2025
+        summary: "Application Mentorship Program & Peer Mentoring Program"
+
+      - company: Career Services, Colgate University
+        position: Alumni Advisor
+        start_date: 2022
+        end_date: present
+
+    Volunteer:
+      - company: MIT / Colgate
+        position: Service Roles
+        highlights:
+          - "Organizer: MIT Atmospheric Chemistry Colloquium (2021 - 2023)"
+          - "Graduate Student Representative: Visiting Committee, MIT EAPS (2023)"
+          - "Undergraduate Student Representative: Leadership and Faculty Recruitment, Colgate University (2014-2016)"
+          - "Journal Reviewer: Environmental Science & Technology; Journal of the Air & Waste Management Association"
+
+    Awards:
+      - title: Callahan-Dee Fellowship
+        awarder: MIT EAPS
+        date: 2022
+      - title: Presidential Graduate Fellowship
+        awarder: MIT
+        date: 2019
+      - title: Jule Charney Prize
+        awarder: MIT PAOC
+        date: 2019
+      - title: Phi Beta Kappa National Honor Society
+        awarder: Colgate University
+        date: 2017
+
+    Skills:
+      - name: Programming
+        details: "Python (pandas, NumPy, SciPy, xarray), R (tidyverse), Fortran, MATLAB"
+      - name: Data Analysis
+        details: "Time-series analysis, Model validation, Data wrangling"
+      - name: Communication
+        details: "Scientific Writing, Public Speaking, Data Visualization"
+
+    Interests:
+      - name: Science Education
+        details: "Curriculum development and public outreach"
+      - name: Urbanism
+        details: "Public transit systems and sustainable infrastructure"

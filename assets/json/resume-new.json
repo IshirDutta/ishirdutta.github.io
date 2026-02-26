@@ -1,0 +1,267 @@
+{
+  "basics": {
+    "name": "Ishir Dutta JSON",
+    "email": "ishir@alum.mit.edu",
+    "location": {
+      "city": "Cambridge",
+      "countryCode": "US",
+      "region": "MA"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Massachusetts Institute of Technology",
+      "position": "Graduate Research Assistant",
+      "location": "Cambridge, MA",
+      "startDate": "2019-01-01",
+      "endDate": "2025-01-01",
+      "summary": "",
+      "highlights": [
+        "<b>Heald Group</b>: Atmospheric Chemistry & Composition Modeling",
+        "<b>Cronin Group</b>: Climate Physics & Chemistry"
+      ]
+    },
+    {
+      "name": "Big Switch Networks",
+      "position": "Founder's Office Intern",
+      "location": "Santa Clara, CA",
+      "startDate": "2017-01-01",
+      "endDate": "2019-01-01",
+      "summary": "<b>Mentor</b>: R. Kyle Forster",
+      "highlights": []
+    },
+    {
+      "name": "Colgate University",
+      "position": "Undergraduate Research Assistant",
+      "location": "Hamilton, NY",
+      "startDate": "2014-01-01",
+      "endDate": "2017-01-01",
+      "summary": "",
+      "highlights": [
+        "<b>Harpp Lab</b>: Volcanology & Analytical Geochemistry (2017)",
+        "<b>Tseng Lab</b>: Microplastics & Contaminants of Emerging Concern (2016-2017)",
+        "<b>Galvez Lab</b>: Optics & Quantum Mechanics (2015-2016)"
+      ]
+    },
+    {
+      "name": "Colgate University",
+      "position": "Science Outreach Coordinator",
+      "location": "Hamilton, NY",
+      "startDate": "2013-01-01",
+      "endDate": "2017-01-01",
+      "summary": "Division of Natural Sciences and Mathematics",
+      "highlights": []
+    },
+    {
+      "name": "Colgate University",
+      "position": "PHYS 232 Introduction to Mechanics Teaching Assistant",
+      "location": "Hamilton, NY",
+      "startDate": "2015-01-01",
+      "endDate": "2017-01-01",
+      "summary": "Department of Physics",
+      "highlights": []
+    },
+    {
+      "name": "Colgate University",
+      "position": "GEOG 328 Sustainability and Natural Resources Peer Tutor",
+      "location": "Hamilton, NY",
+      "startDate": "2017-01-01",
+      "endDate": "2017-05-31",
+      "summary": "Center for Learning, Teaching, and Research",
+      "highlights": []
+    },
+    {
+      "name": "Colgate University",
+      "position": "MATH 250 Number Theory and Mathematical Reasoning Teaching Assistant",
+      "location": "Hamilton, NY",
+      "startDate": "2016-01-01",
+      "endDate": "2016-05-31",
+      "summary": "Department of Mathematics",
+      "highlights": []
+    },
+    {
+      "name": "Colgate University",
+      "position": "PHYS 131 Atoms and Waves Teaching Assistant",
+      "location": "Hamilton, NY",
+      "startDate": "2014-01-01",
+      "endDate": "2016-12-31",
+      "summary": "Department of Physics",
+      "highlights": []
+    },
+    {
+      "name": "Colgate University",
+      "position": "FSEM 144 Emerging Global Challenges edX Online Course Developer",
+      "location": "Hamilton, NY",
+      "startDate": "2015-08-01",
+      "endDate": "2015-12-31",
+      "summary": "Liberal Arts Core Curriculum",
+      "highlights": [
+        "<a href='https://www.huffpost.com/entry/breaking-online-education_b_8526952' target='_blank' rel='noopener'><code>> media coverage</code></a>"
+      ]
+    },
+    {
+      "name": "Colgate University",
+      "position": "MATH 214 Linear Algebra Teaching Assistant",
+      "location": "Hamilton, NY",
+      "startDate": "2015-08-01",
+      "endDate": "2015-12-31",
+      "summary": "Department of Mathematics",
+      "highlights": []
+    },
+    {
+      "name": "Colgate University",
+      "position": "CORE 138S Advent of the Atomic Bomb edX Online Course Developer",
+      "location": "Hamilton, NY",
+      "startDate": "2015-01-01",
+      "endDate": "2015-05-31",
+      "summary": "Liberal Arts Core Curriculum",
+      "highlights": [
+        "<a href='https://er.educause.edu/articles/2015/11/engaging-alumni-and-students-using-online-education-technology' target='_blank' rel='noopener'><code>> peer-reviewed article</code></a>"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "MIT EAPS",
+      "location": "Cambridge, MA",
+      "position": "Mentor",
+      "startDate": "2020-01-01",
+      "endDate": "2025-01-01",
+      "summary": "Application Mentorship Program & Peer Mentoring Program",
+      "highlights": [
+        "<a href='https://sites.google.com/view/eaps-student-advisory-council/application-assistance'>Application Mentorship Program</a>"
+      ]
+    },
+    {
+      "organization": "Colgate University",
+      "location": "Hamilton, NY",
+      "position": "Alumni Advisor",
+      "startDate": "2022-01-01",
+      "endDate": "2025-12-31",
+      "summary": "Career Services",
+      "highlights": []
+    },
+    {
+      "organization": "Colgate University",
+      "location": "Hamilton, NY",
+      "position": "Orientation Leader",
+      "startDate": "2014-01-01",
+      "endDate": "2017-12-31",
+      "summary": "Office of International Student Services",
+      "highlights": []
+    },
+    {
+      "organization": "Colgate University",
+      "location": "Hamilton, NY",
+      "position": "Volunteer",
+      "startDate": "2014-01-01",
+      "endDate": "2017-12-31",
+      "summary": "Office of Admission",
+      "highlights": []
+    },
+    {
+      "organization": "MIT / Colgate",
+      "location": "",
+      "position": "Academic Service",
+      "startDate": "2014-01-01",
+      "endDate": "2023-12-31",
+      "summary": "Administrative and Advisory roles",
+      "highlights": [
+        "<strong>Organizer:</strong> MIT Atmospheric Chemistry Colloquium (2021 - 2023)",
+        "<strong>Graduate Student Representative:</strong> Visiting Committee, MIT EAPS (2023)",
+        "<strong>Undergraduate Student Representative:</strong> Leadership and Faculty Recruitment, Colgate University (2014-2016)",
+        "<strong>Journal Reviewer:</strong> Environmental Science & Technology &bull; Journal of the Air & Waste Management Association"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "location": "Cambridge, MA",
+      "url": "https://dspace.mit.edu/handle/1721.1/159889",
+      "area": "Atmospheric Chemistry",
+      "studyType": "Doctor of Philosophy (Ph.D.)",
+      "startDate": "2019-01-01",
+      "endDate": "2025-01-01",
+      "score": "",
+      "courses": [],
+      "highlights": [
+        "<b>Thesis</b>: The Changing Role of Reactive Nitrogen in the Troposphere"
+      ]
+    },
+    {
+      "institution": "Colgate University",
+      "location": "Hamilton, NY",
+      "url": "",
+      "area": "Physics (honors), Mathematics",
+      "studyType": "Bachelor of Arts (A.B.)",
+      "startDate": "2013-01-01",
+      "endDate": "2017-01-01",
+      "score": "",
+      "courses": [],
+      "highlights": []
+    }
+  ],
+  "awards": [
+    { "title": "Callahan-Dee Fellowship", "date": "2022-01-01", "awarder": "Department of Earth, Atmospheric, and Planetary Sciences, MIT" },
+    { "title": "Presidential Graduate Fellowship", "date": "2019-01-01", "awarder": "Massachusetts Institute of Technology" },
+    { "title": "Jule Charney Prize", "date": "2019-01-01", "awarder": "Program in Atmospheres, Oceans, and Climate, MIT" },
+    { "title": "Phi Beta Kappa National Honor Society", "date": "2017-01-01", "awarder": "Colgate University" },
+    { "title": "Physics and Astronomy Alumni Award", "date": "2017-01-01", "awarder": "Department of Physics and Astronomy, Colgate University" },
+    { "title": "Benton Scholar Award", "date": "2017-01-01", "awarder": "Colgate University" },
+    { "title": "Lila and Curtiss '25 Frank Scholarship", "date": "2016-01-01", "awarder": "Colgate University" },
+    { "title": "Smith Family Scholarship", "date": "2016-01-01", "awarder": "Colgate University" },
+    { "title": "Sigma Pi Sigma National Physics Honor Society", "date": "2016-01-01", "awarder": "Colgate University" },
+    { "title": "George W. Cobb Award", "date": "2016-01-01", "awarder": "Colgate University" },
+    { "title": "Justus '43 and Jayne Schlichting Student Research Fund", "date": "2015-01-01", "awarder": "Colgate University" },
+    { "title": "Charles A. Dana Scholar", "date": "2015-01-01", "awarder": "Colgate University" },
+    { "title": "Elizabeth and Michael Klein '80 Endowed Scholarship Fund", "date": "2014-01-01", "awarder": "Colgate University" },
+    { "title": "Phi Eta Sigma National Academic Honor Society", "date": "2014-01-01", "awarder": "Colgate University" },
+    { "title": "Dodge Prize", "date": "2014-01-01", "awarder": "Colgate University" }
+  ],
+  "skills": [
+    {
+      "name": "Data Analysis",
+      "level": "Expert",
+      "icon": "",
+      "keywords": ["Time-series analysis", "Model validation", "Data wrangling"]
+    },
+    {
+      "name": "Programming",
+      "level": "Expert",
+      "icon": "",
+      "keywords": [
+        "Python (pandas, NumPy, SciPy, matplotlib, xarray)",
+        "R (tidyverse, ggplot2, statistical modeling)",
+        "Fortran (scientific computing)",
+        "MATLAB (numerical modeling, data visualization)"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "Expert",
+      "icon": "",
+      "keywords": ["Linux HPC", "Git", "GitHub", "AWS", "Azure"]
+    },
+    {
+      "name": "Communication",
+      "level": "Expert",
+      "icon": "",
+      "keywords": [
+        "Scientific Writing: Preparing manuscripts and reports.",
+        "Public Speaking: Colloquiums and outreach.",
+        "Data Visualization: Intuitive visuals for stakeholders."
+      ]
+    }
+  ],
+  "interests": [
+    { "name": "Science Education", "icon": "fa-solid fa-graduation-cap", "keywords": ["Curriculum development", "Public outreach"] },
+    { "name": "Urbanism", "icon": "fa-solid fa-train-subway", "keywords": ["Public transit", "Sustainable infrastructure"] },
+    { "name": "Games", "icon": "fa-solid fa-puzzle-piece", "keywords": ["Cryptic crosswords"] }
+  ],
+  "publications": [],
+  "languages": [],
+  "references": [],
+  "projects": []
+}
