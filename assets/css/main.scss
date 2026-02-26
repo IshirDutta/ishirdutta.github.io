@@ -37,3 +37,35 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+.custom-talk-btn {
+  /* Use the theme's primary accent color for the border and text */
+  border: 1px solid var(--global-theme-color) !important;
+  color: var(--global-text-color) !important;
+  background-color: transparent;
+  transition: all 0.3s ease;
+  margin-right: 5px;
+  margin-bottom: 5px;
+
+  i {
+    color: var(--global-theme-color);
+    margin-right: 4px;
+  }
+
+  &:hover {
+    /* Solid background on hover using the theme color */
+    background-color: var(--global-theme-color) !important;
+    color: var(--global-bg-color) !important; /* Text turns to bg color for contrast */
+    
+    i {
+      color: var(--global-bg-color) !important;
+    }
+  }
+}
+
+/* Specific adjustment for Dark Mode if needed */
+[data-theme='dark'] .custom-talk-btn {
+  border-color: var(--global-theme-color);
+  /* Optional: slightly lighten the background of the button in dark mode */
+  background-color: rgba(255, 255, 255, 0.05);
+}
