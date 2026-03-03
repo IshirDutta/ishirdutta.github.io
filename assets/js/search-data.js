@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Courses and outreach programs at Colgate University.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
