@@ -38,14 +38,32 @@
 @use "font-awesome/solid";
 @use "font-awesome/regular";
 
+/* --- Presentations & Talks Page Custom Styles --- */
+
+/* 1. Category Title Icon Spacing */
+.category-title {
+  margin-top: 2rem;
+  i {
+    margin-right: 10px;
+  }
+}
+
+/* 3. Video Sizing Fix */
+.video-wrapper-small {
+  width: 100% !important; /* Forces it to fill the col-sm-10 width */
+  max-width: 800px;       /* Keeps it from being too big on wide screens */
+  margin: 15px 0;
+}
+
+/* 4. Custom Button Styling */
 .custom-talk-btn {
-  /* Use the theme's primary accent color for the border and text */
   border: 1px solid var(--global-theme-color) !important;
   color: var(--global-text-color) !important;
   background-color: transparent;
   transition: all 0.3s ease;
   margin-right: 5px;
   margin-bottom: 5px;
+  cursor: pointer;
 
   i {
     color: var(--global-theme-color);
@@ -53,9 +71,9 @@
   }
 
   &:hover {
-    /* Solid background on hover using the theme color */
     background-color: var(--global-theme-color) !important;
-    color: var(--global-bg-color) !important; /* Text turns to bg color for contrast */
+    color: var(--global-bg-color) !important;
+    text-decoration: none !important;
     
     i {
       color: var(--global-bg-color) !important;
@@ -63,9 +81,95 @@
   }
 }
 
-/* Specific adjustment for Dark Mode if needed */
+/* Dark Mode Specific Polish */
 [data-theme='dark'] .custom-talk-btn {
-  border-color: var(--global-theme-color);
-  /* Optional: slightly lighten the background of the button in dark mode */
   background-color: rgba(255, 255, 255, 0.05);
+}
+
+/* Horizontal Divider */
+.light-hr {
+  border-top: 1px solid var(--global-divider-color);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  opacity: 0.5;
+}
+
+/* --- Teaching Page Styles --- */
+
+// 1. Personnel (Role & Instructor)
+.instructor-text {
+  color: #555; 
+  font-weight: 400;
+  
+  [data-theme='dark'] & {
+    color: #bbb !important; 
+  }
+}
+
+// 2. Course Materials (Icon-only Textbook & Author)
+.course-material {
+  font-size: 0.9rem;
+  line-height: 1.4;
+  margin-top: 0.5rem;
+  
+  i.fa-book {
+    color: var(--global-theme-color);
+    margin-right: 6px; 
+    font-size: 0.85rem;
+  }
+
+  .author-text {
+    color: #6c757d;
+    [data-theme='dark'] & {
+      color: #bbb;
+    }
+  }
+}
+
+// 3. Category Subtitle Link Styling
+.category-title a {
+  transition: opacity 0.2s ease;
+  
+  &:hover {
+    opacity: 0.8;
+    color: var(--global-theme-color) !important;
+  }
+  
+  i {
+    // Ensuring the "External Link" icon is subtle but visible
+    opacity: 0.7;
+  }
+}
+
+// 4. Button Spacing
+.teaching .custom-talk-btn {
+  margin-top: 5px; 
+}
+
+/* --- Shared Toggle Box Styles (Talks & Teaching) --- */
+
+.abstract.hidden {
+  display: none;
+  &.open {
+    display: block; // This allows the JS slideToggle to function correctly
+  }
+}
+
+.card-body {
+  color: var(--global-text-color);
+  line-height: 1.6;
+  font-size: 0.9rem;
+  background-color: var(--global-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 8px;
+  
+  // Custom highlight for the label
+  strong {
+    color: var(--global-theme-color);
+  }
+}
+
+/* Teaching Specific Spacing for the box */
+.teaching .abstract.hidden {
+  margin-bottom: 15px;
 }
