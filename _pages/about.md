@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>54-1415</p>
   #   <p>Department of Earth, Atmospheric, and Planetary Sciences, MIT</p>
@@ -31,4 +31,6 @@ Hi! I am an `environmental scientist` working on air pollution and climate. I us
 
 I earned my PhD at MIT, where I studied long-term trends in precursors to fine particulate matter, ozone, and acid rain, with a focus on nitrogen oxides. I previously worked at a tech startup in the Bay Area, and completed my undergraduate studies in physics and mathematics at Colgate University.
 
-I love dense, busy cities and see my work as a way to make urban areas excellent places to live. 
+I grew up in Delhi, India and love dense, bustling cities.
+
+<!-- A better world is possible -->
