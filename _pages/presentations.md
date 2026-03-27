@@ -133,10 +133,9 @@ talk_categories:
       <div class="col-sm-10">
         <h5 class="title font-weight-bold mb-1">{{ talk.title }}</h5>
         <h6 class="mb-1">
-          <span style="color: #555; font-style: italic;">{{ talk.event }}</span>
-          
+          <span class="event-text">{{ talk.event }}</span>
           {% if talk.location %}
-            <span style="color: #000;" class="pipe-separator"> | </span>
+            <span class="pipe-separator"> | </span>
             <span style="color: var(--global-theme-color);">{{ talk.location }}</span>
           {% endif %}
         </h6>
