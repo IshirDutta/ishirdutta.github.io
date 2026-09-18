@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-02-27'
+  last_updated: '2026-08-10'
 papers:
   oQbdRi0AAAAJ:2osOgNQ5qMEC:
-    citations: 65
+    citations: 74
     title: "Multitwist M\xF6bius strips and twisted ribbons in the polarization of paraxial light beams"
     year: '2017'
   oQbdRi0AAAAJ:9yKSN-GCB0IC:
@@ -10,11 +10,15 @@ papers:
     title: Deducing 3-dimensional polarization fields from projective measurements
     year: '2017'
   oQbdRi0AAAAJ:IjCSPb-OGe4C:
-    citations: 2
+    citations: 4
     title: Seasonal occurrence and fate of nanoparticles in two biological wastewater treatment plants in Southern California
     year: '2023'
+  oQbdRi0AAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: Characterizing the Global Tropospheric Budget of Oxidized Nitrogen (NOy)
+    year: '2026'
   oQbdRi0AAAAJ:W7OEmFMy1HYC:
-    citations: 19
+    citations: 25
     title: How well do we understand the Planck feedback?
     year: '2023'
   oQbdRi0AAAAJ:YsMSGLbcyi4C:
@@ -26,14 +30,10 @@ papers:
     title: The Changing Role of Reactive Nitrogen in the Troposphere
     year: '2025'
   oQbdRi0AAAAJ:d1gkVwhDpl0C:
-    citations: 2
+    citations: 3
     title: Searching for the helical-gradient force on chiral molecules
     year: '2017'
   oQbdRi0AAAAJ:eQOLeE2rZwMC:
-    citations: 8
+    citations: 11
     title: Exploring deposition observations of oxidized sulfur and nitrogen as a constraint on emissions in the United States
     year: '2023'
-  oQbdRi0AAAAJ:ufrVoPGSRksC:
-    citations: 0
-    title: The Global Tropospheric Budget of NOy
-    year: '2024'
